@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      Card
+    </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css">
+</head>
+  
+  <body>
+    <div class="card">
+      <div class="card_heart">
+        <i class="bx bx-heart">
+        </i>
+      </div>
+      <div class="card_cart">
+        <i class="bx bx-cart-download">
+        </i>
+      </div>
+      <div class="card_img">
+        <img src="https://cdn.sanity.io/images/zqgvoczt/vietnam-migration/56b420099115004d6c1d1890103d4886a53d8908-1200x800.jpg" alt="">
+      </div>
+      <div class="card_title">
+        Hoa hồng 🌹
+      </div>
+      <div class="card_price">
+        Price: 100$
+      </div>
+      <div class="card_size">
+        <h3>
+          size
+        </h3>
+        <span>
+          Đại
+        </span>
+        <span>
+          Lớn
+        </span>
+        <span>
+          Vừa
+        </span>
+        <span>
+          Nhỏ
+        </span>
+      </div>
+      <div class="card_color">
+        <h3>color</h3>
+        <span class="card_color_purple">
+        </span>
+        <span class="card_color_blue">
+        </span>
+        <span class="card_color_yellow">
+        </span>
+      </div>
+      <div class="card_action">
+        <button>
+          Mua hàng
+        </button>
+        <button>
+          Thêm vào giỏ hàng
+        </button>
+      </div>
+  </body>
+
+</html>
